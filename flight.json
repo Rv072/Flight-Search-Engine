@@ -1,7 +1,14 @@
-{
+show flight[
+    {
     "origin":"indore" ,
     "Destintion":"pune",
     "charges":"1700Rs"
 
+}
+{
+    "origin":"pune" ,
+    "Destintion":"indore",
+    "charges":"1780Rs"
 
 }
+]
